@@ -1,0 +1,17 @@
+.cart-list {
+  padding-left: 0px;
+}
+.remove-all-button{
+  color: #0b69ff;
+  font-size: 16px;
+  font-family: "roboto";
+  font-weight: bold;
+  border: none;
+  outline: none;
+  background-color: transparent;
+  cursor: pointer;
+}
+.remove-all-container {
+  display: flex;
+  justify-content: flex-end;
+}
